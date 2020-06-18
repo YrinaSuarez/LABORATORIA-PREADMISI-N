@@ -24,9 +24,10 @@
 
 > En este Segundo día nos encargamos de fusionar nuestras ideas, concentrarnos en algo sencillo y amigable para el
 usuario, teniendo en cuenta funcionalidades como regresar y salir. De manera que al finalizar el segundo día llegamos 
-a un acuerdo entre ambas de cómo queríamos que sea nuestro prototipo final.
+a un acuerdo entre ambas de cómo queríamos que sea nuestro prototipo final. Asimismo agregamos la opción de botones para seleccionar y dirigir a la siguiente pantalla, de manera que sea más rápido e interactivo.
 
 - Prototipo final:
+Nuestra trivia busca entender al usuario y preguntarle acerca de sus preferencias, como si quisiera jugar con tiempo o sin tiempo, también de que contaría con un menú donde encuentre las indicaciones para el juego y más información sobre el mismo, y una leve reseña del juego en la pantalla inicial.
 
 ![Prototipo][Imagen3]
 
@@ -79,6 +80,9 @@ a un acuerdo entre ambas de cómo queríamos que sea nuestro prototipo final.
 [Imagen4]: https://github.com/YrinaSuarez/LABORATORIA-PREADMISION/blob/master/Pantalla%201%20_trivia.png
  "Imagen 4"
 
+
+## **DÍA 4**
+>En este día 4 nos encargamos de la interactividad y estilos.
 
 
 
