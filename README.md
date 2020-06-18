@@ -9,6 +9,10 @@ He aquí cada nuestro primer prototipo:
 
 - Prototipo de Mariana: 
 
+![Prototipo][Imagen]
+
+[Imagen]: https://github.com/YrinaSuarez/LABORATORIA-PREADMISION/MVP-DIA1.png "Imagen Title Text 1"
+
 
 
 
